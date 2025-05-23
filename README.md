@@ -4,10 +4,10 @@ Estou dando meus primeiros passos no mundo da tecnologia e explorando diferentes
 
 ---
 
-🦄 **Linguagens:**  
+👩‍💻 **Linguagens:**  
 Python, JavaScript, HTML, CSS
 
-💼 **Ferramentas:**  
+⚙️ **Ferramentas:**  
 VS Code, Git, GitHub
 
 ---
