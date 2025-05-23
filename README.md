@@ -1,1 +1,19 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> <p align="left"> Olá! Me chamo <strong>Nicole Brito</strong> e sou estudante de Ciência da Computação na CESAR School, atualmente no primeiro período.<br> Estou dando meus primeiros passos no mundo da tecnologia e explorando diferentes áreas do desenvolvimento para descobrir com qual delas mais me identifico. </p> <p align="left"> Linguagens: <strong>Python, JavaScript, HTML, CSS</strong> </p> <p align="left"> Ferramentas: <strong>VS Code, Git, GitHub</strong> </p> <p align="left"> 💌 Aqui vai uma mensagem para entrar em contato comigo: ⤵️ </p> <p align="left"> <a href="mailto:nmbsb@cesar.school" title="Gmail"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/nicole-brito-7a9561357/" title="LinkedIn"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
+![computador](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+
+### Olá! Me chamo Nicole Brito 👋  
+Sou estudante de **Ciência da Computação** na **CESAR School**, atualmente no **primeiro período**.  
+Estou dando meus primeiros passos no mundo da tecnologia e explorando diferentes áreas do desenvolvimento para descobrir com qual delas mais me identifico.
+
+---
+
+🦄 **Linguagens:**  
+Python, JavaScript, HTML, CSS
+
+💼 **Ferramentas:**  
+VS Code, Git, GitHub
+
+---
+
+💌 **Entre em contato comigo:**  
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:nmbsb@cesar.school)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-brito-7a9561357/)
