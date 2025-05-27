@@ -8,7 +8,6 @@ Estou dando meus primeiros passos no mundo da tecnologia e explorando diferentes
 Python, JavaScript, HTML, CSS
 
 🤖 **Plataformas/Hardware:**
-
 Arduino
 
 ⚙️ **Ferramentas:**  
