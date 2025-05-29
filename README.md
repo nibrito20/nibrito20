@@ -7,7 +7,7 @@ Estou dando meus primeiros passos no mundo da tecnologia e explorando diferentes
 👩‍💻 **Linguagens:**  
 Python, JavaScript, HTML, CSS
 
-🤖 **Plataformas/Hardware:**
+🤖 **Plataformas/Hardware:**  
 Arduino
 
 ⚙️ **Ferramentas:**  
