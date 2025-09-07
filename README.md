@@ -1,11 +1,11 @@
 ### Olá! Me chamo Nicole Brito 👋  
-Sou estudante de **Ciência da Computação** na **CESAR School**, atualmente no **primeiro período**.  
+Sou estudante de **Ciência da Computação** na **CESAR School**, atualmente no **segundo período**.  
 Estou dando meus primeiros passos no mundo da tecnologia e explorando diferentes áreas do desenvolvimento para descobrir com qual delas mais me identifico.
 
 ---
 
 👩‍💻 **Linguagens:**  
-Python, JavaScript, HTML, CSS
+Python, JavaScript, HTML, CSS, C
 
 🤖 **Plataformas/Hardware:**  
 Arduino
