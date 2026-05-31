@@ -29,10 +29,10 @@ Atualmente aprofundando conhecimentos em **SQL** e **análise de dados**, buscan
 
 ### 🚀 Ferramentas e Deploy
 
-<img alt="PythonAnywhere" title="PythonAnywhere" width="30px" style="padding-right: 10px;" src="./images/pythonanywhere-icon.png"/>
-<img alt="Render" title="Render" width="30px" style="padding-right: 10px;" src="./images/render-icon.png"/>
-<img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=flat-square&logo=pythonanywhere&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
 > Deploy em produção com **PythonAnywhere** e **Render**, incluindo pipelines **CI/CD** automatizados.
