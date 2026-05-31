@@ -44,10 +44,6 @@ Atualmente aprofundando conhecimentos em **SQL** e **análise de dados**, buscan
 
 ![Snake animation](https://github.com/nibrito20/nibrito20/blob/output/github-contribution-grid-snake-dark.svg)
 
-
-<br/>
-<br/>
-
 ---
 
 💌 **Entre em contato comigo:**
