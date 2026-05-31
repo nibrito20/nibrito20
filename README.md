@@ -37,8 +37,6 @@ Atualmente aprofundando conhecimentos em **SQL** e **análise de dados**, buscan
 
 > Deploy em produção com **PythonAnywhere** e **Render**, incluindo pipelines **CI/CD** automatizados.
 
-<br/>
-<br/>
 
 ---
 
