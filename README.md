@@ -27,11 +27,24 @@ Atualmente aprofundando conhecimentos em **SQL** e **análise de dados**, buscan
 
 ---
 
+### 🚀 Ferramentas e Deploy
+
+<img alt="PythonAnywhere" title="PythonAnywhere" width="30px" style="padding-right: 10px;" src="./images/pythonanywhere-icon.png"/>
+<img alt="Render" title="Render" width="30px" style="padding-right: 10px;" src="./images/render-icon.png"/>
+<img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+
+
+> Deploy em produção com **PythonAnywhere** e **Render**, incluindo pipelines **CI/CD** automatizados.
+
+<br/>
+<br/>
+
+---
+
 ### 📊 Estatísticas
 
 ![Snake animation](https://github.com/nibrito20/nibrito20/blob/output/github-contribution-grid-snake-dark.svg)
-
-
 
 
 <br/>
