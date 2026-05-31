@@ -1,26 +1,41 @@
-### Olá! Me chamo Nicole Brito 👋
-
-Sou estudante de **Ciência da Computação** na **CESAR School**, atualmente no **terceiro período**, com foco em **dados**.
+### Nicole Brito
 
 ---
 
-👩‍💻 **Linguagens e Tecnologias:**
+**`Data Science`**
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,html,css,django,spring,arduino,vscode,git,github)](https://skillicons.dev)
-🗄️ **Frameworks:**
+Sou estudante de **Ciência da Computação** na **CESAR School**, atualmente no **terceiro período**, com foco em **dados**. Tenho experiência prática com desenvolvimento de sistemas utilizando **Python**, **Django** e **Spring Boot**, incluindo deploy em produção.
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+Atualmente aprofundando conhecimentos em **SQL** e **análise de dados**, buscando aplicar soluções orientadas a dados em problemas reais. Tenho facilidade para aprender novas tecnologias de forma autônoma e gosto de trabalhar em equipe.
 
-⚙️ **Ferramentas:**
+---
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🤖 Linguagens e Tecnologias
 
-🤖 **Plataformas/Hardware:**
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+![Snake animation](https://github.com/nibrito20/nibrito20/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+<br/>
+<br/>
 
 ---
 
