@@ -2,11 +2,7 @@
 
 ---
 
-**`Data Science`**
-
-Sou estudante de **Ciência da Computação** na **CESAR School**, atualmente no **terceiro período**, com foco em **dados**. Tenho experiência prática com desenvolvimento de sistemas utilizando **Python**, **Django** e **Spring Boot**, incluindo deploy em produção.
-
-Atualmente aprofundando conhecimentos em **SQL** e **análise de dados**, buscando aplicar soluções orientadas a dados em problemas reais. Tenho facilidade para aprender novas tecnologias de forma autônoma e gosto de trabalhar em equipe.
+Sou estudante de Ciência da Computação na CESAR School com interesse na área de **Dados**. Atualmente estou aprofundando meus conhecimentos em SQL, Python e análise de dados por meio de estudos e projetos práticos. Busco desenvolver soluções que transformem dados em informações úteis para apoiar a tomada de decisão.
 
 ---
 
